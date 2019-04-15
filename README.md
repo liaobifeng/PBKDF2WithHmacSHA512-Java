@@ -1,5 +1,5 @@
 # PBKDF2WithHmacSHA512-Java
-[PBKDF2 with HmacSHA512]() password cryptography in Java.
+PBKDF2 with HmacSHA512 password cryptography in Java.
 
 [PBKDF2](http://en.wikipedia.org/wiki/PBKDF2)
 [HMAC](http://en.wikipedia.org/wiki/Hash-based_message_authentication_code)
